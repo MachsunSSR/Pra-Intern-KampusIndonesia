@@ -15,7 +15,7 @@ export default function Beasiswa() {
     };
 
     return (
-        <div className="px-40 justify-center py-24">
+        <div className="px-8 md:px-16 lg:px-24 xl:px-40 justify-center py-24">
             <div className=" flex flex-col space-y-4">
                 <h2>Informasi Beasiswa & Seminar</h2>
                 <p>Tingkatkan kemampuan dan wujudkan mimpimu</p>
@@ -39,7 +39,7 @@ export default function Beasiswa() {
                 </div>
             </div>
             <hr className="mt-2 border-2 rounded-full bg-gray-200" />
-            <div className="grid grid-cols-3 grid-rows-2 gap-10 pt-10">
+            <div className="grid grid-cols1 md:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-10 pt-10">
                 <BeasiswaCard judul="Beasiswa Brillian" gambar={Brillian} />
                 <BeasiswaCard judul="Beasiswa LPDP" gambar={Lpdp} />
                 <BeasiswaCard judul="Beasiswa Djarum" gambar={Djarum} />

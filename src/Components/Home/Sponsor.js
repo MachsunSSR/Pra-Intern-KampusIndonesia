@@ -7,7 +7,7 @@ import telu from "../../Assets/telu.png";
 export default function Sponsor() {
     return (
         <div>
-            <div className="grid grid-cols-2 justify-center items-center py-24 px-40">
+            <div className="grid grid-cols-2 justify-center items-center py-24 px-8 md:px-16 lg:px-24 xl:px-40">
                 <h2>Bekerja Sama Dengan :</h2>
 
                 <div className="flex justify-center items-center space-x-10">

@@ -5,7 +5,7 @@ import Button from "../Button";
 export default function Header() {
     return (
         <div className="py-36 bg-metrocolor-primblack">
-            <div className="grid grid-cols-2 px-40  ">
+            <div className="grid grid-cols-2 px-8 md:px-16 lg:px-24 xl:px-40  ">
                 <div className="flex flex-col justify-center text-metrocolor-secblue space-y-10">
                     <h2>
                         Bersama Kampus Indonesia, <br /> Meraih Masa Depan

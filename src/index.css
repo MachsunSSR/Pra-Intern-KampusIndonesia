@@ -6,6 +6,20 @@ body {
 * {
     box-sizing: border-box;
 }
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #4c5e79;
+}
+
+body::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+    background: #24cae5;
+}
+
 @tailwind base;
 @tailwind components;
 

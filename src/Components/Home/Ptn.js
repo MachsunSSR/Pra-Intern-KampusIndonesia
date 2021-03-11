@@ -5,7 +5,7 @@ import SBawah from "../../Assets/bawah.svg";
 export default function Ptn() {
     return (
         <div className="bg-metrocolor-secblue py-24">
-            <div className="grid grid-cols-2 px-40">
+            <div className="grid grid-cols-2 px-8 md:px-16 lg:px-24 xl:px-40">
                 <div className="flex flex-col justify-center space-y-12 pr-24">
                     <h2>Informasi Lengkap Kuota PTN Favorit</h2>
                     <p className="text-base">
