@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Website ini dibuat menggunakan React dengan bantuan Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Kalo kepo soal tailwind bisa langsung cek aja kali ke dokumentasinya
 
 ## Available Scripts
 
