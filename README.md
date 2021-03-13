@@ -4,8 +4,7 @@ Desained By : MachsunSSR
 Using figma : http://bit.ly/DesainPra-Intern1
 
 Deployed By : MachsunSSR
-You can see it online at : http://bit.ly/Pra-Intern1-KampusIndonesia 
-\nServernya gratisa, jadi nunggu loadingnya lama. Yang sabar yaaa :))
+You can see it online at : http://bit.ly/Pra-Intern1-KampusIndonesia <br /> Servernya gratisa, jadi nunggu loadingnya lama. Yang sabar yaaa :))
 
 ## Tutorial Ngerun
 
