@@ -1,10 +1,10 @@
 ## Website ini dibuat menggunakan React dengan bantuan Tailwind CSS
 
-Kalo kepo soal tailwind bisa langsung cek aja kali ke dokumentasinya
+Desained By : MachsunSSR
+Using figma : http://bit.ly/DesainPra-Intern1
 
-## Website bisa diakses secara online di :
-
-Belom jadi sek,,
+Deployed By : MachsunSSR
+You can see it online at : -
 
 ## Tutorial Ngerun
 
