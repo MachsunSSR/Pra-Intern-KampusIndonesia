@@ -5,7 +5,7 @@ Using figma : http://bit.ly/DesainPra-Intern1
 
 Deployed By : MachsunSSR
 You can see it online at : http://bit.ly/Pra-Intern1-KampusIndonesia 
-Servernya gratisa, jadi nunggu loadingnya lama. Yang sabar yaaa :))
+\nServernya gratisa, jadi nunggu loadingnya lama. Yang sabar yaaa :))
 
 ## Tutorial Ngerun
 
