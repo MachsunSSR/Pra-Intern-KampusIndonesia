@@ -48,8 +48,8 @@ export default function Footer() {
                     </div>
                 </div>
             </div>
-            <div className="md:justify-self-center">
-                <div className="mt-4 md:mt-0">
+            <div className="lg:justify-self-center">
+                <div className="mt-4 lg:mt-0">
                     <h1>Layanan</h1>
                 </div>
                 <ul className="text-sm mt-4 list-disc ml-4">
@@ -61,7 +61,7 @@ export default function Footer() {
                     <li className="mt-2">Lomba</li>
                 </ul>
             </div>
-            <div className="md:mt-0 mt-4 md:justify-self-center">
+            <div className="lg:mt-0 mt-4 lg:justify-self-center">
                 <div>
                     <h1>Partnership</h1>
                 </div>

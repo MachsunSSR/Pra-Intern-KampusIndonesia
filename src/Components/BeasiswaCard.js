@@ -4,13 +4,20 @@ import Button from "./Button";
 
 export default function BeasiswaCard({ judul, gambar }) {
     return (
-        <div className=" flex items-center justify-center shadow-md">
-            <div className="flex flex-col space-y-2 h-96">
-                <div className="md:min-h-60 lg:min-h-64">
-                    <img src={gambar} alt="gambar" className="rounded w-full" />
+        <button
+            className="flex items-center justify-center shadow-md h-42 sl:50  sl:h-64 lg:h-96
+        transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+        >
+            <div className="flex flex-col space-y-2 ">
+                <div className="">
+                    <img
+                        src={gambar}
+                        alt="gambar"
+                        className="rounded w-full object-contain"
+                    />
                 </div>
-                <div className="flex flex-col justify-end px-4 space-y-2">
-                    <h3 className="font-bold text-xl">{judul}</h3>
+                <div className="flex flex-col justify-start px-4 space-y-2">
+                    <h3 className="font-bold text-xl text-left">{judul}</h3>
                     <div className="flex items-center space-x-2">
                         <div>
                             <FiClock />
@@ -22,8 +29,10 @@ export default function BeasiswaCard({ judul, gambar }) {
                     <Button bg="bg-white" text="text-black">
                         Detail
                     </Button>
+                    <div></div>
+                    <div></div>
                 </div>
             </div>
-        </div>
+        </button>
     );
 }

@@ -39,7 +39,7 @@ export default function Beasiswa() {
                 </div>
             </div>
             <hr className="mt-2 border-2 rounded-full bg-gray-200" />
-            <div className="grid grid-cols1 md:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-10 pt-10">
+            <div className="grid  md:grid-cols-2 lg:grid-cols-3 grid-rows-2 gap-10 pt-10">
                 <BeasiswaCard judul="Beasiswa Brillian" gambar={Brillian} />
                 <BeasiswaCard judul="Beasiswa LPDP" gambar={Lpdp} />
                 <BeasiswaCard judul="Beasiswa Djarum" gambar={Djarum} />

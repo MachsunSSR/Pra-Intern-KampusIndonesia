@@ -7,6 +7,10 @@ module.exports = {
             secondaryfont: ["Inter"],
         },
         extend: {
+            padding: {
+                "1/3": "33.3333%",
+                "2/3": "66.6667%",
+            },
             colors: {
                 metrocolor: {
                     //metrocolor-primblue

@@ -31,6 +31,10 @@ h2 {
     @apply text-xl lg:text-4xl font-bold;
 }
 
+h4 {
+    @apply text-2xl lg:text-4xl font-bold;
+}
+
 body {
     @apply font-mainfont;
 }

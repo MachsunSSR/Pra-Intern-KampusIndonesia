@@ -5,6 +5,7 @@ import Beasiswa from "../Components/Home/Beasiswa";
 import Instagram from "../Components/Home/Instagram";
 import Ptn from "../Components/Home/Ptn";
 import Sponsor from "../Components/Home/Sponsor";
+import Kampus from "../Components/Home/Kampus";
 
 export default function Home() {
     return (
@@ -13,6 +14,7 @@ export default function Home() {
             <Magang />
             <Beasiswa />
             <Instagram />
+            <Kampus />
             <Ptn />
             <Sponsor />
         </div>
