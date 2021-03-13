@@ -1,10 +1,15 @@
-## Website ini dibuat menggunakan React dengan bantuan Tailwind CSS
+## About this repository
+1. Website ini dibuat dalam waktu 6 hari ( 3 hari desain & 3 hari coding )
+2. Terdiri dari 3 Page (Beranda, Tentang, Kontak)
+3. Comeback project setelah sekian lama ga ngoding frontend
+4. Menggunakan Tailwind biar kekinian hehe 
 
-Desained By : MachsunSSR
+## Website ini dibuat menggunakan React dengan bantuan Tailwind CSS
+Desained By : MachsunSSR<br /> 
 Using figma : http://bit.ly/DesainPra-Intern1
 
-Deployed By : MachsunSSR
-You can see it online at : http://bit.ly/Pra-Intern1-KampusIndonesia <br /> Servernya gratisa, jadi nunggu loadingnya lama. Yang sabar yaaa :))
+Deployed By : MachsunSSR<br /> 
+You can see it online at : http://bit.ly/Pra-Intern1-KampusIndonesia <br /><br /> nb: Servernya gratisan, jadi nunggu loadingnya lama. Yang sabar yaaa :))
 
 ## Tutorial Ngerun
 
